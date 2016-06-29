@@ -6,6 +6,6 @@
 <body>
 <h1>Inicio de prueba GIT</h1>
 <p>este es el primer archivo de prueba para GIT</p>
-<p>segunda  modificación para branch desarrollo1</p>
+<p>primera modificación</p>
 </body>
 </html>
